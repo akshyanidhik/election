@@ -1,0 +1,16 @@
+body{
+    background-image :url('homepg.jpeg');
+    background-size: cover;
+    
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    margin: 0;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+    font-size: 50px;
+    margin: 20px auto;
+}

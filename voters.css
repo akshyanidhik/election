@@ -1,0 +1,8 @@
+table{
+width:50%
+border-collapse:collapse;
+font-size:50px;
+margin:20px auto;
+}
+th{color:aquamarine;background-color:rgb(199, 153, 227)}
+td{color:bisque;background-color:rgb(145, 158, 158)}
